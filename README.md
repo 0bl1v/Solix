@@ -2,5 +2,8 @@
 > **Note:** Solix is not Released yet, Its just beta.
 
 ---
-
-![Solix](https://raw.githubusercontent.com/0bl1v/Solix/refs/heads/main/images/thumbnail.png)
+<picture>
+    <source srcset="images/thumbnail.png" media="(prefers-color-scheme: dark)">
+    <source srcset="images/thumbnail.png" media="(prefers-color-scheme: light)">
+    <img src="images/thumbnail.png" alt="Banner">
+</picture>
