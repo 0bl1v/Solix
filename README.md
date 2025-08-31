@@ -1,2 +1,6 @@
-> ℹ️ **Info**  
-> This WindUI was not inspired by any UI frameworks, and the name has no relation to them.
+> [!WARNING]
+> **Note:** Solix is not Released yet, Its just beta.
+
+---
+
+![Solix UI](https://raw.githubusercontent.com/0bl1v/Solix/refs/heads/main/images/thumbnail.png)
